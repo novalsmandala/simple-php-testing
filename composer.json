@@ -1,0 +1,17 @@
+{
+    "name": "nourman/simple-test",
+    "description": "Coba Implementasi Testing Sendiri",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nourman\\SimpleTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nourman",
+            "email": "nourman@ukk.com"
+        }
+    ],
+    "require": {}
+}
